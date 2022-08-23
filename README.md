@@ -10,6 +10,6 @@ class _osiris {
  name = "Osiris Project"
  acknowledgements = "Cybersecurity Team"
  
- print('What's Up!')
+ print("What's Up!")
 }
 ```
